@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>MKL</string>
+	<key>CFBundleName</key>
+	<string>MKL</string>
+	<key>DocSetPlatformFamily</key>
+	<string>MKL</string>
+	<key>isDashDocset</key>
+	<true/>
+  <key>dashIndexFilePath</key>
+  <string>GUID-0191F247-778C-4C69-B54F-ABF951506FCD.htm</string>
+</dict>
+</plist>
